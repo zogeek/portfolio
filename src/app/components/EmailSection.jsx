@@ -46,13 +46,14 @@ const EmailSection = () => {
     >
       <div className="bg-[radial-gradient(ellipse_at_center,_var(--tw-gradient-stops))] from-blue-900 to-transparent rounded-full h-80 w-80 z-0 blur-lg absolute top-3/4 -left-4 transform -translate-x-1/2 -translate-1/2"></div>
       <div className="z-10">
-        <h5 className="text-xl font-bold text-white my-2">Contactez moi!</h5>
+        <h1 className="text-xl font-bold text-white my-2">Contactez moi!</h1>
         <p className="text-[#ADB7BE] mb-4 max-w-md">
           {" "}
-          Je suis actuellement à la recherche de nouvelles opportunités, ma
-          boîte de réception est toujours ouvert. Que vous ayez une question ou
-          que vous souhaitiez simplement vous dire bonjour, je ferai de mon
-          mieux pour vous répondre !
+          Vous cherchez un développeur web passionné et expérimenté pour donner
+          vie à vos idées ? Je suis à votre disposition pour collaborer sur des
+          projets de toutes envergures. Contactez-moi dès aujourd'hui pour
+          discuter de vos besoins et de comment je peux vous aider à atteindre
+          vos objectifs.
         </p>
         <div className="socials flex flex-row gap-2">
           <Link href="https://github.com/zogeek">
@@ -118,7 +119,7 @@ const EmailSection = () => {
             </div>
             <button
               type="submit"
-              className="bg-red-500 hover:bg-red-600 text-white font-medium py-2.5 px-5 rounded-lg w-full"
+              className="bg-red-600 hover:bg-red-700 text-white font-medium py-2.5 px-5 rounded-lg w-full"
             >
               Envoyez le message
             </button>
