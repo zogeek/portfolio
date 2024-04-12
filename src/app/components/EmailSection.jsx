@@ -51,7 +51,7 @@ const EmailSection = () => {
           {" "}
           Vous cherchez un développeur web passionné et expérimenté pour donner
           vie à vos idées ? Je suis à votre disposition pour collaborer sur des
-          projets de toutes envergures. Contactez-moi dès aujourd'hui pour
+          projets de toutes envergures. Contactez-moi dès aujourd&apos;hui pour
           discuter de vos besoins et de comment je peux vous aider à atteindre
           vos objectifs.
         </p>
