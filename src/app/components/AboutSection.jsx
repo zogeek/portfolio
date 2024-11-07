@@ -77,9 +77,9 @@ const AboutSection = () => {
             Je suis passionné par le développement web et mobile. Je suis un
             développeur full-stack, j&apos;ai une expérience dans la création de
             sites web et d&apos;applications mobiles. Je suis également un
-            passionné de la technologie et de l&apos;innovation.Curieux et
+            passionné de la technologie et de l&apos;innovation. Curieux et
             autodidacte, je suis toujours à la recherche de nouveaux défis et
-            dt&apos;opportunités pour apprendre et grandir dans mon domaine.
+            d&apos;opportunités pour apprendre et grandir dans mon domaine.
           </p>
           <div className="flex flex-row justify-start mt-8">
             <TabButton
